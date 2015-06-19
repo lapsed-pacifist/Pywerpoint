@@ -1,0 +1,34 @@
+Name,N
+Mixed,-2
+Title,1
+Text,2
+Two-column text,3
+Table,4
+Text and chart,5
+Chart and text,6
+Organization chart,7
+Chart,8
+Text and clipart,9
+Clipart and text,10
+Title only,11
+Blank,12
+Text and object,13
+Object and text,14
+Large object,15
+Object,16
+Text and MediaClip,17
+MediaClip and text,18
+Object over text,19
+Text over object,20
+Text and two objects,21
+Two objects and text,22
+Two objects over text,23
+Four objects,24
+Vertical text,25
+ClipArt and vertical text,26
+Vertical title and text,27
+Vertical title and text over chart,28
+Two objects,29
+Object and two objects,30
+Two objects and object,31
+Custom,32
